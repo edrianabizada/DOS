@@ -1,3 +1,3 @@
-from DOSC import main
+from DOS import main
 
 main()
