@@ -33,6 +33,6 @@ $ python DOS.py
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/edrisnabizada) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Shah.Edris.Nabizada.420) <br>
 [![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/edrisnabizada420) <br>
-
+[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=red&labelColor=black)](https://youtube.com/@Best_Hacker) <br>
 
 <h2> THANKS FOR VISIT âœ˜âœ˜ <h2\>
